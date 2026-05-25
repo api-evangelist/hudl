@@ -1,0 +1,122 @@
+aid: hudl
+name: Hudl
+description: >-
+  Hudl is a Lincoln, Nebraska sports performance and analytics technology
+  company founded in 2007. The company started as a video sharing and review
+  platform for high school, college, and professional teams and has grown into
+  a global provider of video capture hardware, performance analysis software,
+  and sports data services. Hudl operates across basketball, baseball,
+  football, ice hockey, rugby, soccer, softball, and volleyball, serving
+  customers from youth clubs through professional leagues. The company's
+  product portfolio spans the core Hudl video platform, Hudl Focus AI-powered
+  capture cameras (Indoor, Outdoor, Flex, Point), Hudl Replay and Hudl Studio
+  for live and tactical analysis, Hudl IQ for American football analytics,
+  Volleymetrics, the Hudl TV livestreaming product, and Hudl Tickets digital
+  ticketing. Through acquisitions Hudl has consolidated several leading
+  performance analysis and football data brands under its umbrella, including
+  Sportscode (performance analysis software), Wyscout (the largest soccer
+  video and stats database), Statsbomb (advanced football analytics), Instat
+  (video and scouting), WIMU and Titan (athlete tracking and wearables), and
+  Signal and ADI. Hudl exposes commercial developer surfaces primarily
+  through Hudl Wyscout (Wyscout Data API, documented as OpenAPI 3.0 at
+  apidocs.wyscout.com, with Database, Stats, Events, and Physical Data packs)
+  and Hudl Statsbomb (the Statsbomb Aggregated API for player-match,
+  player-season, team-match, and team-season data, accessed via the Data Hub,
+  plus the Raw X&Y Tracking Data API and a Wyscout/Statsbomb ID Mapping API).
+  Core Hudl video and Hudl Focus do not publish a public developer API; B2B
+  integrations are sales-mediated. Hudl maintains a public GitHub
+  organization (github.com/hudl) with infrastructure, resilience, and media
+  tooling open source projects (Mjolnir, Fargo, HudlFfmpeg, react-native
+  components), but these are engineering libraries, not product SDKs. Hudl's
+  revenue model is SaaS subscriptions for video, analytics, and data
+  packages, plus camera hardware sales and data licensing.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Sports
+  - Sports Technology
+  - Sports Performance
+  - Sports Analytics
+  - Video Analysis
+  - Performance Analysis
+  - Video Capture
+  - AI Cameras
+  - Coaching
+  - Team Management
+  - Football Analytics
+  - Soccer Analytics
+  - Basketball
+  - Volleyball
+  - American Football
+  - Wyscout
+  - Statsbomb
+  - Sportscode
+  - Athlete Tracking
+  - Livestreaming
+  - Ticketing
+  - Sports Data
+url: https://raw.githubusercontent.com/api-evangelist/hudl/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.hudl.com
+  - type: Products
+    url: https://www.hudl.com/products
+  - type: Solutions
+    url: https://www.hudl.com/solutions
+  - type: Sportscode
+    url: https://www.hudl.com/products/sportscode
+  - type: Wyscout
+    url: https://www.hudl.com/products/wyscout
+  - type: WyscoutDataAPI
+    url: https://www.hudl.com/en_gb/products/wyscout/data-api
+  - type: WyscoutAPIDocs
+    url: https://apidocs.wyscout.com/
+  - type: Statsbomb
+    url: https://www.hudl.com/products/statsbomb
+  - type: HudlFocus
+    url: https://www.hudl.com/products/focus
+  - type: HudlReplay
+    url: https://www.hudl.com/products/replay
+  - type: HudlStudio
+    url: https://www.hudl.com/products/studio
+  - type: HudlIQ
+    url: https://www.hudl.com/products/hudl-iq
+  - type: HudlTV
+    url: https://www.hudl.com/products/hudl-tv
+  - type: HudlTickets
+    url: https://www.hudl.com/products/tickets
+  - type: Volleymetrics
+    url: https://www.hudl.com/products/volleymetrics
+  - type: Instat
+    url: https://www.hudl.com/products/instat
+  - type: Changelog
+    url: https://www.hudl.com/releases/all
+  - type: Blog
+    url: https://www.hudl.com/blog
+  - type: Support
+    url: https://support.hudl.com
+  - type: GitHub
+    url: https://github.com/hudl
+  - type: OpenSource
+    url: https://hudl.github.io/
+  - type: Careers
+    url: https://www.hudl.com/jobs
+  - type: About
+    url: https://www.hudl.com/about
+  - type: Contact
+    url: https://www.hudl.com/contact
+  - type: Twitter
+    url: https://twitter.com/Hudl
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hudl
+  - type: YouTube
+    url: https://www.youtube.com/@Hudl
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
