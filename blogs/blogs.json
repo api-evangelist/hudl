@@ -3,16 +3,12 @@
   "feeds": [
     {
       "source": "https://www.hudl.com/blog",
-      "feed_url": "https://www.hudl.com/blog",
-      "title": "",
-      "saved": 0,
-      "method": "none"
-    },
-    {
-      "source": "https://www.hudl.com/releases/all",
-      "error": "HTTPError"
+      "feed_url": "",
+      "saved": 3,
+      "method": "agent-scrape"
     }
   ],
-  "post_count": 7,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 20,
+  "fetched": "2026-06-27T12:46:32Z",
+  "agent_pulled": "2026-06-27"
 }

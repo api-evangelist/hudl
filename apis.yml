@@ -95,7 +95,7 @@ common:
     url: https://www.hudl.com/products/volleymetrics
   - type: Instat
     url: https://www.hudl.com/products/instat
-  - type: Changelog
+  - type: ChangeLog
     url: https://www.hudl.com/releases/all
   - type: Blog
     url: https://www.hudl.com/blog
