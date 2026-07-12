@@ -63,6 +63,10 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/hudl-trust-center.yml
+  - type: DomainSecurity
+    url: security/hudl-domain-security.yml
   - type: Website
     url: https://www.hudl.com
   - type: Products
